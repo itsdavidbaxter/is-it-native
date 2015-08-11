@@ -1,0 +1,10 @@
+Synonym	Accepted Name	Accepted name binomial
+Abies X shastensis	Abies magnifica shastensis	Abies magnifica
+Abies grandis grandis	Abies grandis	Abies grandis
+Abronia alba variabilis	Abronia umbellata	Abronia umbellata
+Abronia insularis	Abronia umbellata	Abronia umbellata
+[...]
+Zizyphus obtusifolia canescens	Ziziphus obtusifolia canescens	Ziziphus obtusifolia
+Zonanthemis clementina	Deinandra clementina	Deinandra clementina
+Zonanthemis corymbosa	Deinandra corymbosa	Deinandra corymbosa
+Zosterella dubia	Heteranthera dubia	Heteranthera dubia
